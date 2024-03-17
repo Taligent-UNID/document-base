@@ -9,7 +9,7 @@ Los documentos son la unidad mas chica de una base documental, y la mas esencial
 ![base-documental-documento](assets/images/base-documental-documento.png)
 ### Metadatos
 Los metadatos en un documento son información adicional que proporciona detalles sobre el propio documento. Estos datos incluyen el título, autor, fecha de creación, formato de archivo, palabras clave y otros detalles relevantes que ayudan a describir y organizar el contenido. Los metadatos son esenciales para facilitar la búsqueda, la gestión y la comprensión de los documentos, ya que ofrecen contexto y estructura a la información contenida en el documento.
->[!info]
+>[!INFO]
 > En algunas herramientas como Obsidian, que veremos mas adelantes, hay metadatos por defecto, generados por la herramienta, por ejemplo "fecha de creacion","fecha de modificacion","ruta del archivo" entre otros.
 ### Relación 
 En el contexto de la gestión de documentos, la relación entre documentos se establece mediante enlaces, que pueden ser de dos tipos principales: enlaces entrantes (link in) y enlaces salientes (link out).
