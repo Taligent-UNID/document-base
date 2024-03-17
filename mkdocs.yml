@@ -1,1 +1,8 @@
 site_name: Base Documental
+docs_dir: docs/
+
+repo_name: 'stefnestor/mkdocs'
+repo_url: 'https://github.com/stefnestor/mkdocs'
+
+theme:
+  name: material
