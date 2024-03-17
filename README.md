@@ -15,7 +15,7 @@ Se utiliza [docker-compose](docker-compose.yaml) para crear el contenedor de nom
 `docker-compose up -d`
 
 Se puede acceder a "http://localhost:8000" y visualizar la web estatica.
->[!WARNING] Previamente se debe tener instalado [Docker Desktop](https://www.docker.com/products/docker-desktop/)
+> [!WARNING]Previamente se debe tener instalado [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 
 ## Enviroment Prod
 Para el entorno productivo se debe realizar una rama *dev* y trabajar en ella para luego realizar el correspondiente PR (Pull Request), disparando la GitHub Actions de [mkdocs-to-gh-pages](.github/workflows/mkdocs-ghpages.yaml), al recibir un PR (Pull Request), compila el proyecto de MkDocs y genera un commit a la rama [gh-pages](https://github.com/Taligent-UNID/document-base/tree/gh-pages), la cual realiza un workflow de despliegue en **GH-PAGES**, publicando el sitio en la siguiente url:
