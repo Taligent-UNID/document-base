@@ -1,8 +1,8 @@
 site_name: Base Documental
 docs_dir: docs/
 
-repo_name: 'stefnestor/mkdocs'
-repo_url: 'https://github.com/stefnestor/mkdocs'
+repo_name: 'Taligent-UNID/document-base'
+repo_url: 'https://github.com/Taligent-UNID/document-base'
 
 theme:
   name: material
