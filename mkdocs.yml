@@ -6,3 +6,8 @@ repo_url: 'https://github.com/Taligent-UNID/document-base'
 
 theme:
   name: material
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
