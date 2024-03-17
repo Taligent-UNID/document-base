@@ -6,5 +6,5 @@ services:
         ports:
             - 8000:8000
         volumes:
-            - ${PWD}:/docs
+            - ${PWD}/docs:/docs
         image: squidfunk/mkdocs-material
