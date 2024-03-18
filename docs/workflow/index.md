@@ -15,6 +15,18 @@ Una vez finalizada la tarea, se debe generar un documento al respecto, para dich
 !!! warning
     La gestión de tareas no esta incluida dentro de la base documental.
 
-Los documentos tienen un modelo a partir de una plantilla o Template, para reducir el tiempo de edición, y poder facilitar el tiempo al equipo.
+Los documentos tienen un modelo a partir de una plantilla o Template, para reducir el tiempo de edición, y poder facilitar al equipo.
 !!! note
     Es necesario crear distintos templates de documentos a partir del tipo de tarea, para automatizar el proceso de lectura por parte del Líder.
+
+## Tipos de documentos
+Cada tipo de documento, determina una accion en el flujo de trabajo y una interacción entre los distintos documentos.
+
+- [People](people/people.md)
+- [Meeting](meetings/meeting.md)
+- [Note](notes/note.md)
+- [Diagram](diagrams/diagram.md)
+- [Project Document](projects/project.md)
+- [Template](templates/template.md)
+
+:material-arrow-right-thick: [Atras](../index.md) <br>

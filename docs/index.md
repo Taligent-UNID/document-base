@@ -37,4 +37,4 @@ La estructura de carpetas de la bóveda se define bajo cada uno de los tipos de 
 
 Para determinar el uso de cada uno de los distintos tipos de documentos, se necesita comprender un flujo de trabajo dentro de la base documental.
 
-[Flujo de Trabajo](workflow/index.md)
+:material-arrow-right-thick:[Flujo de Trabajo](workflow/index.md)
