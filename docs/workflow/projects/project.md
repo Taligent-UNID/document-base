@@ -12,7 +12,7 @@ Los proyectos cuentan con una estructura de carpetas y documentos para una mejor
         - Manuales
         - Recursos
         - Informes
-    - Porject N (v*N*)
+    - Project N (v*N*)
         - Portada
         - Manuales
         - Recursos
@@ -37,7 +37,7 @@ En el siguiente modelo representa los campos necesarios para completar en un doc
 > Referencias | Información adicional
 
 !!! info
-    Tambien se deben completar los siguientes metadatos:
+    También se deben completar los siguientes metadatos:
 
     - __day__: fecha de creación (ej. 2024-03-15)
     - __tags__: etiqueta con el nombre del cliente (ver catalogo)

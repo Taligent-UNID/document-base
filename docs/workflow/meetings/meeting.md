@@ -13,12 +13,12 @@ En el siguiente modelo representa los campos necesario para completar una minuta
 >
 > Agenda | _Los distintos puntos a discutir_
 > 
-> Registro | _Desiciones que se tomaron respecto a cada punto_
+> Registro | _Decisiones que se tomaron respecto a cada punto_
 >
-> Proximos pasos | _Acciones a realizar_
+> Próximos pasos | _Acciones a realizar_
 
 !!! info
-    Tambien se deben completar los siguientes metadatos:
+    También se deben completar los siguientes metadatos:
 
     - __day__: fecha de la reunión (ej. 2024-03-15)
     - __time__: horario de la reunión (ej. 10:00)
@@ -27,7 +27,7 @@ En el siguiente modelo representa los campos necesario para completar una minuta
     - __tags__: etiqueta con el nombre del cliente (ver catalogo)
     - __type__: tipo de documento, en este caso "meeting"
 
-Las reuniones deben ser llevadas a cabo por el organizador de la reunión, liderando cada uno de los puntos a discutir y dando cierre en los registros. En caso que un punto no se haya dado por cerrado, se debe dejar presente para la proxima reunión.
+Las reuniones deben ser llevadas a cabo por el organizador de la reunión, liderando cada uno de los puntos a discutir y dando cierre en los registros. En caso que un punto no se haya dado por cerrado, se debe dejar presente para la próxima reunión.
 
 ## Ejemplo
 Se procede mostrar un ejemplo para mayor entendimiento

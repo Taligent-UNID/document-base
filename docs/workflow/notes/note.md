@@ -12,12 +12,12 @@ En el siguiente modelo representa los campos necesarios para completar una nota.
 >
 > Objetivo | Propósito principal 
 > 
-> Plan de acción | Solución apliar, definicion de pasos e implementación
+> Plan de acción | Solución ampliar, definición de pasos e implementación
 > 
 > Conclusión | Síntesis final
 
 !!! info
-    Tambien se deben completar los siguientes metadatos:
+    También se deben completar los siguientes metadatos:
 
     - __day__: fecha de creación (ej. 2024-03-15)
     - __summary__: detalle corto de la nota

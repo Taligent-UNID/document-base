@@ -13,14 +13,14 @@ El equipo correspondiente realiza las distintas tareas dependiendo el tipo de ta
 
 Una vez finalizada la tarea, se debe generar un documento al respecto, para dicha aprobación del Líder, y poder ser incluido a los documentos del proyecto. En caso de ser rechazado por el líder, se debe volver a revisar la tarea en caso que se obviaron procesos o detalles en el cierre del documento.
 !!! warning
-    La gestión de tareas no esta incluida dentro de la base documental.
+    La gestión de tareas no está incluida dentro de la base documental.
 
 Los documentos tienen un modelo a partir de una plantilla o Template, para reducir el tiempo de edición, y poder facilitar al equipo.
 !!! note
     Es necesario crear distintos templates de documentos a partir del tipo de tarea, para automatizar el proceso de lectura por parte del Líder.
 
 ## Tipos de documentos
-Cada tipo de documento, determina una accion en el flujo de trabajo y una interacción entre los distintos documentos.
+Cada tipo de documento, determina una acción en el flujo de trabajo y una interacción entre los distintos documentos.
 
 - [People](people/people.md)
 - [Meeting](meetings/meeting.md)

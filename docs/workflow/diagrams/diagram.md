@@ -10,7 +10,7 @@ Existen distintos tipos de modelos:
 - Diagrama de flujo
 
 !!! info
-    Tambien se deben completar los siguientes metadatos:
+    También se deben completar los siguientes metadatos:
 
     - __day__: fecha de creación (ej. 2024-03-15)
     - __summary__: detalle corto del diagrama

@@ -8,7 +8,7 @@ En el siguiente modelo representa los campos necesario para completar en un perf
 
 > Nombre y Apellido
 > 
-> Puesto en el proyecto | Categoria
+> Puesto en el proyecto | Categoría
 >
 > Descripción del puesto
 > 
@@ -17,17 +17,17 @@ En el siguiente modelo representa los campos necesario para completar en un perf
 > Habilidades
 
 !!! info
-    Tambien se deben completar los siguientes metadatos:
+    También se deben completar los siguientes metadatos:
 
-    - __email__: direccion de correo de la organización
-    - __aliases__: apodo o nombre mas corto para ser una busqueda mas exacta del perfil
-    - __role__: puestro en el proyecto
+    - __email__: dirección de correo de la organización
+    - __aliases__: apodo o nombre mas corto para ser una búsqueda mas exacta del perfil
+    - __role__: puesto en el proyecto
     - __tags__: etiqueta con el nombre del cliente (ver catalogo)
     - __assigment__: porcentaje de tiempo en el proyecto por dia (ej. 50)
     - __type__: tipo de documento, en este caso "profile"
 
-El perfil es un documento unico por integrante, por lo que no debe existir duplicidad.
-Cabe aclarar que al pertenecer a otro equipo o cliente, se puede exportar el perfil, ajustando puesto y/o responsabilidades, como asignacion.
+El perfil es un documento único por integrante, por lo que no debe existir duplicidad.
+Cabe aclarar que al pertenecer a otro equipo o cliente, se puede exportar el perfil, ajustando puesto y/o responsabilidades, como asignación.
 
 ## Ejemplo
 Se procede mostrar un ejemplo para mayor entendimiento
